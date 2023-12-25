@@ -55,4 +55,6 @@ Adjust the following parameters in the script:
 
 Feel free to experiment with different initial amounts and win probabilities to observe how they affect the ruin scenario.
 
+For a simple explanation of how the classification works, visit my [scientific outreach website](https://theeventhorizons.com/toss-a-coin/) for accessible content on the topic.
+
 Happy simulating!
